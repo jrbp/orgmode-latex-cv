@@ -2,32 +2,20 @@
 
 #+LaTeX_HEADER: \usepackage{fa_orgmode_cv}
 
-#+TITLE: Personal Resume
+#+TITLE: John Bonini
+#+SUBTITLE: john@rbonini.science
+#+AUTHOR: https://github.com/jrbp
 
-* Demo Level One
-** Level Two
-   *Content under level two*
+* Education
+** 2013-
+*PhD. in Physics*
 
-   text text text text text text text text text text text text text
-   text text text text text text text text text text text text text
-** Level Two
-   *Content under level two*
+Rutgers University, Condensed Matter Theory; Advisor: Karin Rabe
+** 2009-2013
+*B.S. in Physics*
 
-   text text text text text text text text text text text text text
-   text text text text text text text text text text text text text
-
-* Personal Data
-#+ATTR_HTML: :frame void
-#+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
-|          <r> |                        |
-|         Age: | XX                     |
-|       Phone: | XX                     |
-|        Blog: | http://xxx.github.io   |
-|       Email: | [[mailto:xxx@gmail.com][xxx@gmail.com]]          |
-|      Github: | https://github.com/xxx |
-| Description: | XXX, XXXXXXXXXXXX      |
-
-* Work Experience
+Rowan University, Minor in Mathematics, Minor in Computer Science
+* Research Experience
 ** 2012-Current
    *text*
 
