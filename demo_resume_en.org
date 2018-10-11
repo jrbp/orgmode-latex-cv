@@ -6,37 +6,93 @@
 #+SUBTITLE: john@rbonini.science
 #+AUTHOR: https://github.com/jrbp
 
+* Research Experience
+   *should this section be totally different??*
+** 2013-
+   *Computational Materials Design*
+
+   Advisor: Dr. Karin Rabe, Professor of Physics, Rutgers University
+
+
+
+** 2012-2013
+   *Theoretical Condensed Matter and Theoretical Applied Optics*
+
+   Advisor: Dr. Hong Ling, Professor of Physics, Rowan University
+
+   *Characterization of a Short Pulse Laser*
+
+   Advisor: Dr. Michael Lim, Professor of Physics, Rowan University
+
+   *Synthesis of Ag_{2}O_{1-x}N_{x} Antibacterial Thin Films via RF Magnetron Sputtering*
+
+   Advisor: Dr. Jeffrey Hettinger, Professor of Physics, Rowan University
+
+** 2010-2012
+   *Characterization of Multiferroic Materials*
+
+   Advisor: Dr. Sam Lofland, Professor of Physics, Rowan University
 * Education
 ** 2013-
 *PhD. in Physics*
 
-Rutgers University, Condensed Matter Theory; Advisor: Karin Rabe
+Rutgers University, Condensed Matter Theory
+
+Advisor: Karin Rabe
 ** 2009-2013
 *B.S. in Physics*
 
 Rowan University, Minor in Mathematics, Minor in Computer Science
-* Research Experience
-** 2012-Current
-   *text*
+* Publications
+** 2018
+"First-Principles Bulk-Layer Model for Dielectric and Piezoelectric Responses in
+Superlattices" 	\textit{arXiv:1809.05168}
+** 2011
+"Enhanced resonant magnetoelectric coupling in frequenct-tunable compisite
+multiferroic bimorph structures" \textit{Appl. Phys. Lett. 98, 092905}
+* Talks
+* Posters
+* Academic Positions
+** 2014-
+*Graduate Assistant* Rutgers University
+** 2014
+*Teaching Assistant* Rutgers University
+** 2013-2014
+*Gradutate Fellow* Rutgers University
+** 2010-2013
+*Research Assistant* Rowan University
+** 2010-2012
+*Physics and Math Tutor* Rowan University
+* Awards
+** 2013-2014
+*Excellence Fellowship*
 
-   text text text text text text text text text text text text text
-   text text text text text text text text text text text text text
+*Henry C. Torrey Fellowship Supplement*
+
+Rutgers University
+** 2013
+*Medallion for Excellence in Physics*
+
+Rowan University
 ** 2011-2012
-   *text*
+*New Jersey Space Grant Academic Year Fellowship*
+** 2009-2013
+*Edward J. Bloustein Scholarship*
 
-   text text text text text text text text text
-* Research Publications
-
-
+*Rowan Scholars Program Scholarship*
+** 2009
+*Clement Newkirk Scholarship*
+* Elected Positions
+** 2011
+*Society of Physics Students Associate Zone Councillor* 2011 SPS National
+Council Meeting
 
 * Computer Skills
 
-
-#+ATTR_HTML: :frame void
-#+ATTR_LATEX: :environment tabular :align lp{0.85\textwidth}
-| <l>    |                                                                             |
-| C      | text text text                                                              |
-| Python | text text text                                                              |
-| Shell  | text text text                                                              |
-| Linux  | text text text                                                              |
-| Latex  | text text text, text text text text text text text text text text text text |
+ Linux,
+ Python,
+ Bash,
+ Lisp,
+ \LaTeX,
+ C,
+ Java
