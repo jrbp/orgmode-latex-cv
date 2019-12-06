@@ -1,12 +1,18 @@
 #+OPTIONS: toc:nil H:10 ':t
-
 #+LaTeX_HEADER: \usepackage{fa_orgmode_cv}
 
-#+TITLE: John Bonini
+#+TITLE: Curriculum Vitae of John Bonini
 #+SUBTITLE: john@rbonini.science
 #+AUTHOR: https://github.com/jrbp
 
-* Research Experience
+* Research Interests
+
+ Application and development of computational
+and data-driven techniques to facilitate the discovery and understanding of
+functional materials, including ferroelectrics, piezoelectrics, topological
+insulators and semimetals as bulk, thin films, and heterostructures.
+
+* Research Experience :noexport:
    *should this section be totally different??*
 ** 2013-
    *Computational Materials Design*
@@ -20,79 +26,166 @@
 
    Advisor: Dr. Hong Ling, Professor of Physics, Rowan University
 
-   *Characterization of a Short Pulse Laser*
+   Maybe merge all of these
 
-   Advisor: Dr. Michael Lim, Professor of Physics, Rowan University
-
-   *Synthesis of Ag_{2}O_{1-x}N_{x} Antibacterial Thin Films via RF Magnetron Sputtering*
-
-   Advisor: Dr. Jeffrey Hettinger, Professor of Physics, Rowan University
+;   *Characterization of a Short Pulse Laser*
+;
+;   Advisor: Dr. Michael Lim, Professor of Physics, Rowan University
+;
+;   *Synthesis of Ag_{2}O_{1-x}N_{x} Antibacterial Thin Films via RF Magnetron Sputtering*
+;
+;   Advisor: Dr. Jeffrey Hettinger, Professor of Physics, Rowan University
 
 ** 2010-2012
-   *Characterization of Multiferroic Materials*
+   *Experimental Characterization of Multiferroic Materials*
 
    Advisor: Dr. Sam Lofland, Professor of Physics, Rowan University
 * Education
 ** 2013-
-*PhD. in Physics*
-
-Rutgers University, Condensed Matter Theory
-
+*PhD. in Physics* (expected 2020)\\
+Rutgers University, Condensed Matter Theory\\
 Advisor: Karin Rabe
 ** 2009-2013
-*B.S. in Physics*
-
+*B.S. in Physics*\\
 Rowan University, Minor in Mathematics, Minor in Computer Science
-* Publications
-** 2018
-"First-Principles Bulk-Layer Model for Dielectric and Piezoelectric Responses in
-Superlattices" 	\textit{arXiv:1809.05168}
+* Articles
+** 2019
+"Discretized diagonalization for efficient Berry curvature integration: Application to electric polarization"\\
+J. Bonini, D. Vanderbilt, and K. M. Rabe\\
+To be submitted to arXiv by the end of 2019
+** 2019
+"First-principles bulk-layer model for dielectric and piezoelectric responses in
+superlattices"\\
+J. Bonini, J. W. Bennett, P. Chandra, and K. M. Rabe\\
+\textit{Phys. Rev. B 99, 104107}
 ** 2011
-"Enhanced resonant magnetoelectric coupling in frequenct-tunable compisite
-multiferroic bimorph structures" \textit{Appl. Phys. Lett. 98, 092905}
+"Enhanced resonant magnetoelectric coupling in frequency-tunable composite
+multiferroic bimorph structures"\\
+P. Finkel, J. Bonini, E. Garrity, K. Bussman, J. Gao, J. F. Li, S. E. Lofland, and D. Viehland\\
+\textit{Appl. Phys. Lett. 98, 092905}
 * Talks
-* Posters
-* Academic Positions
-** 2014-
+** 2019
+"Fantastic metastable states and where to find them: A computational search for superlattices with enhanced functional properties"\\
+\textit{APS March Meeting, Boston, Massechusetts}
+
+"First principles dielectric slab model for dielectric and piezoelectric response in superlattices"\\
+\textit{Symposium of the Laboratory for Surface Modification, Rutgers University}
+
+"First principles dielectric slab model for dielectric and piezoelectric response in superlattices"\\
+\textit{Fundamental Physics of Ferroelectrics, Tampa, Florida}
+** 2018
+"First principles dielectric slab model for dielectric and piezoelectric response in superlattices"\\
+\textit{APS March Meeting, Los Angeles, California}
+** 2017
+"Efficient computation of spontaneous polarization using Wannier center displacements"\\
+\textit{APS March Meeting, New Orleans, Louisiana}
+
+** 2016
+"Efficient computation of spontaneous polarization using Wannier center displacements"\\
+\textit{Fundamental Physics of Ferroelectrics, Washington D.C.}
+
+** 2015
+
+"High throughput density functional theory calculations for predicting new ferroelectrics"\\
+\textit{Student Seminars in Physics and Astronomy, Rutgers University}
+* Schools/Workshops Attended
+** 2019
+Workshop on Recent Developments in Electronic Structure\\
+University of Illinois at Urbana-Champaign\\
+Poster: "Computing spontaneous polarization without sampling a switching path"
+** 2018
+NSF EFRI-2DARE, DMRED-2D & MIP Grantees Meeting\\
+Pennsylvania State University Materials Research Institute
+
+** 2017
+International School on Oxide Electronics\\
+Institut d'Études Scientifiques Cargèse, France\\
+Poster: "Efficient computation of spontaneous polarization using Wannier center displacements"
+
+Workshop on Recent Developments in Electronic Structure\\
+Princeton University
+** 2015
+Machine Learning for Materials Science Workshop\\
+University of Maryland
+
+** 2014
+Quantum Espresso Workshop\\
+Pennsylvania State University
+
+** 2013
+NJSGC Annual Summer Research Conference\\
+Rutgers University\\
+Poster: "Engineering the interaction between cold dipolar molecules with external fields to produce novel quantum phases"
+
+** 2012
+NJSGC Academic Year Fellowship Poster Session\\
+Rutgers University\\
+Poster: "Design of a system for Elastic, Electric, and Magnetic Properties of Multiferroic Devices "
+
+STEM Symposium\\
+Rowan University\\
+Poster: "Design of a system for Elastic, Electric, and Magnetic Properties of Multiferroic Devices "
+* Awards
+** 2019
+*Best Oral Presentation by student or postdoc (3rd Place)*\\
+Fundamental Physics of Ferroelectrics Workshop
+
+** 2013
+*Excellence Fellowship*\\
+Rutgers University
+
+
+*Medallion for Excellence in Physics*\\
+Rowan University
+
+** 2009 :noexport:
+*Edward J. Bloustein Scholarship*
+
+*Rowan Scholars Program Scholarship*
+
+*Clement Newkirk Scholarship*
+* Academic Positions :noexport:
+** 2014-2020
 *Graduate Assistant* Rutgers University
 ** 2014
 *Teaching Assistant* Rutgers University
 ** 2013-2014
-*Gradutate Fellow* Rutgers University
+*Graduate Fellow* Rutgers University
 ** 2010-2013
 *Research Assistant* Rowan University
 ** 2010-2012
 *Physics and Math Tutor* Rowan University
-* Awards
-** 2013-2014
-*Excellence Fellowship*
-
-*Henry C. Torrey Fellowship Supplement*
-
-Rutgers University
-** 2013
-*Medallion for Excellence in Physics*
-
-Rowan University
-** 2011-2012
-*New Jersey Space Grant Academic Year Fellowship*
-** 2009-2013
-*Edward J. Bloustein Scholarship*
-
-*Rowan Scholars Program Scholarship*
-** 2009
-*Clement Newkirk Scholarship*
-* Elected Positions
+* Elected Positions :noexport:
 ** 2011
 *Society of Physics Students Associate Zone Councillor* 2011 SPS National
 Council Meeting
 
 * Computer Skills
 
- Linux,
  Python,
+ HPC,
+ Linux,
+ MongoDB,
+ Git,
  Bash,
+ Fortran,
  Lisp,
- \LaTeX,
- C,
- Java
+ C
+
+* References
+*Karin Rabe*\\
+Board of Governors Professor\\
+Department of Physics and Astronomy, Rutgers University\\
+kmrabe@physics.rutgers.edu
+
+*David Vanderbilt*\\
+Board of Governors Professor\\
+Department of Physics and Astronomy, Rutgers University\\
+dhv@physics.rutgers.edu
+
+*Cyrus Dryer*\\
+Assistant Professor\\
+Department of Physics and Astronomy, Stony Brook University\\
+Affiliate Associate Research Scientist\\
+Center for Computational Quantum Physics, Flatiron Institute\\
+cyrus.dreyer@stonybrook.edu
