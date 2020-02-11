@@ -49,10 +49,10 @@ Advisor: Karin Rabe
 *B.S. in Physics*\\
 Rowan University, Minor in Mathematics, Minor in Computer Science
 * Articles
-** 2019
-"Discretized diagonalization for efficient Berry curvature integration: Application to electric polarization"\\
+** 2020
+"Berry Flux Diagonalization: Application to Electric Polarization"\\
 J. Bonini, D. Vanderbilt, and K. M. Rabe\\
-To be submitted to arXiv by the end of 2019
+arXiv:2002.02995 [cond-mat.mtrl-sci]\\
 ** 2019
 "First-principles bulk-layer model for dielectric and piezoelectric responses in
 superlattices"\\
