@@ -64,6 +64,10 @@ multiferroic bimorph structures"\\
 P. Finkel, J. Bonini, E. Garrity, K. Bussman, J. Gao, J. F. Li, S. E. Lofland, and D. Viehland\\
 \textit{Appl. Phys. Lett. 98, 092905}
 * Talks
+** 2020
+"Berry Flux Diagonalization: Application to Electric Polarization"\\
+\textit{Fundamental Physics of Ferroelectrics, Silver Springs, Maryland}
+
 ** 2019
 "Fantastic metastable states and where to find them: A computational search for superlattices with enhanced functional properties"\\
 \textit{APS March Meeting, Boston, Massechusetts}
