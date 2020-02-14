@@ -5,6 +5,10 @@
 #+SUBTITLE: john@rbonini.science
 #+AUTHOR: https://github.com/jrbp
 
+
+* Viewing my CV :noexport:
+My CV can be viewed on this page as a [[./bonini_CV.pdf][pdf here]].
+
 * Research Interests
 
  Application and development of computational
