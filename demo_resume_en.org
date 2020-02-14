@@ -12,34 +12,6 @@ and data-driven techniques to facilitate the discovery and understanding of
 functional materials, including ferroelectrics, piezoelectrics, topological
 insulators and semimetals as bulk, thin films, and heterostructures.
 
-* Research Experience :noexport:
-   *should this section be totally different??*
-** 2013-
-   *Computational Materials Design*
-
-   Advisor: Dr. Karin Rabe, Professor of Physics, Rutgers University
-
-
-
-** 2012-2013
-   *Theoretical Condensed Matter and Theoretical Applied Optics*
-
-   Advisor: Dr. Hong Ling, Professor of Physics, Rowan University
-
-   Maybe merge all of these
-
-;   *Characterization of a Short Pulse Laser*
-;
-;   Advisor: Dr. Michael Lim, Professor of Physics, Rowan University
-;
-;   *Synthesis of Ag_{2}O_{1-x}N_{x} Antibacterial Thin Films via RF Magnetron Sputtering*
-;
-;   Advisor: Dr. Jeffrey Hettinger, Professor of Physics, Rowan University
-
-** 2010-2012
-   *Experimental Characterization of Multiferroic Materials*
-
-   Advisor: Dr. Sam Lofland, Professor of Physics, Rowan University
 * Education
 ** 2013-
 *PhD. in Physics* (expected 2020)\\
