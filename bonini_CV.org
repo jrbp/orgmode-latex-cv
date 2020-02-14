@@ -7,7 +7,7 @@
 
 
 * Viewing my CV :noexport:
-My CV can be viewed on this page as a [[./bonini_CV.pdf][pdf here]].
+My CV can be viewed on this page or as a [[./bonini_CV.pdf][pdf here]].
 
 * Research Interests
 
