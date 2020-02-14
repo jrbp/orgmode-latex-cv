@@ -24,46 +24,46 @@ Rowan University, Minor in Mathematics, Minor in Computer Science
 ** 2020
 "Berry Flux Diagonalization: Application to Electric Polarization"\\
 J. Bonini, D. Vanderbilt, and K. M. Rabe\\
-arXiv:2002.02995 [cond-mat.mtrl-sci]\\
+/arXiv:2002.02995 [cond-mat.mtrl-sci]/\\
 ** 2019
 "First-principles bulk-layer model for dielectric and piezoelectric responses in
 superlattices"\\
 J. Bonini, J. W. Bennett, P. Chandra, and K. M. Rabe\\
-\textit{Phys. Rev. B 99, 104107}
+/Phys. Rev. B 99, 104107/
 ** 2011
 "Enhanced resonant magnetoelectric coupling in frequency-tunable composite
 multiferroic bimorph structures"\\
 P. Finkel, J. Bonini, E. Garrity, K. Bussman, J. Gao, J. F. Li, S. E. Lofland, and D. Viehland\\
-\textit{Appl. Phys. Lett. 98, 092905}
+/Appl. Phys. Lett. 98, 092905/
 * Talks
 ** 2020
-"Berry Flux Diagonalization: Application to Electric Polarization"\\
-\textit{Fundamental Physics of Ferroelectrics, Silver Springs, Maryland}
+"First principles dielectric slab model for dielectric and piezoelectric response in superlattices"\\
+/Fundamental Physics of Ferroelectrics, Tampa, Florida/
 
 ** 2019
 "Fantastic metastable states and where to find them: A computational search for superlattices with enhanced functional properties"\\
-\textit{APS March Meeting, Boston, Massechusetts}
+/APS March Meeting, Boston, Massechusetts/
 
 "First principles dielectric slab model for dielectric and piezoelectric response in superlattices"\\
-\textit{Symposium of the Laboratory for Surface Modification, Rutgers University}
+/Symposium of the Laboratory for Surface Modification, Rutgers University/
 
 "First principles dielectric slab model for dielectric and piezoelectric response in superlattices"\\
-\textit{Fundamental Physics of Ferroelectrics, Tampa, Florida}
+/Fundamental Physics of Ferroelectrics, Tampa, Florida/
 ** 2018
 "First principles dielectric slab model for dielectric and piezoelectric response in superlattices"\\
-\textit{APS March Meeting, Los Angeles, California}
+/APS March Meeting, Los Angeles, California/
 ** 2017
 "Efficient computation of spontaneous polarization using Wannier center displacements"\\
-\textit{APS March Meeting, New Orleans, Louisiana}
+/APS March Meeting, New Orleans, Louisiana/
 
 ** 2016
 "Efficient computation of spontaneous polarization using Wannier center displacements"\\
-\textit{Fundamental Physics of Ferroelectrics, Washington D.C.}
+/Fundamental Physics of Ferroelectrics, Washington D.C./
 
 ** 2015
 
 "High throughput density functional theory calculations for predicting new ferroelectrics"\\
-\textit{Student Seminars in Physics and Astronomy, Rutgers University}
+/Student Seminars in Physics and Astronomy, Rutgers University/
 * Schools/Workshops Attended
 ** 2019
 Workshop on Recent Developments in Electronic Structure\\
