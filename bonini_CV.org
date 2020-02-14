@@ -14,104 +14,148 @@ insulators and semimetals as bulk, thin films, and heterostructures.
 
 * Education
 ** 2013-
-*PhD. in Physics* (expected 2020)\\
-Rutgers University, Condensed Matter Theory\\
+*PhD. in Physics* (expected 2020)
+
+Rutgers University, Condensed Matter Theory
+
 Advisor: Karin Rabe
 ** 2009-2013
-*B.S. in Physics*\\
+*B.S. in Physics*
+
 Rowan University, Minor in Mathematics, Minor in Computer Science
 * Articles
 ** 2020
-"Berry Flux Diagonalization: Application to Electric Polarization"\\
-J. Bonini, D. Vanderbilt, and K. M. Rabe\\
-/arXiv:2002.02995 [cond-mat.mtrl-sci]/\\
+"Berry Flux Diagonalization: Application to Electric Polarization"
+
+J. Bonini, D. Vanderbilt, and K. M. Rabe
+
+/arXiv:2002.02995 [cond-mat.mtrl-sci]/
+
 ** 2019
 "First-principles bulk-layer model for dielectric and piezoelectric responses in
-superlattices"\\
-J. Bonini, J. W. Bennett, P. Chandra, and K. M. Rabe\\
+superlattices"
+
+J. Bonini, J. W. Bennett, P. Chandra, and K. M. Rabe
+
 /Phys. Rev. B 99, 104107/
 ** 2011
 "Enhanced resonant magnetoelectric coupling in frequency-tunable composite
-multiferroic bimorph structures"\\
-P. Finkel, J. Bonini, E. Garrity, K. Bussman, J. Gao, J. F. Li, S. E. Lofland, and D. Viehland\\
+multiferroic bimorph structures"
+
+P. Finkel, J. Bonini, E. Garrity, K. Bussman, J. Gao, J. F. Li, S. E. Lofland,
+and D. Viehland
+
 /Appl. Phys. Lett. 98, 092905/
 * Talks
 ** 2020
-"First principles dielectric slab model for dielectric and piezoelectric response in superlattices"\\
+"First principles dielectric slab model for dielectric and piezoelectric
+response in superlattices"
+
 /Fundamental Physics of Ferroelectrics, Tampa, Florida/
 
 ** 2019
-"Fantastic metastable states and where to find them: A computational search for superlattices with enhanced functional properties"\\
+"Fantastic metastable states and where to find them: A computational search for
+superlattices with enhanced functional properties"
+
 /APS March Meeting, Boston, Massechusetts/
 
-"First principles dielectric slab model for dielectric and piezoelectric response in superlattices"\\
+"First principles dielectric slab model for dielectric and piezoelectric
+response in superlattices"
+
 /Symposium of the Laboratory for Surface Modification, Rutgers University/
 
-"First principles dielectric slab model for dielectric and piezoelectric response in superlattices"\\
+"First principles dielectric slab model for dielectric and piezoelectric
+response in superlattices"
+
 /Fundamental Physics of Ferroelectrics, Tampa, Florida/
 ** 2018
-"First principles dielectric slab model for dielectric and piezoelectric response in superlattices"\\
+"First principles dielectric slab model for dielectric and piezoelectric
+response in superlattices"
+
 /APS March Meeting, Los Angeles, California/
 ** 2017
-"Efficient computation of spontaneous polarization using Wannier center displacements"\\
+"Efficient computation of spontaneous polarization using Wannier center
+displacements"
+
 /APS March Meeting, New Orleans, Louisiana/
 
 ** 2016
-"Efficient computation of spontaneous polarization using Wannier center displacements"\\
+"Efficient computation of spontaneous polarization using Wannier center
+displacements"
+
 /Fundamental Physics of Ferroelectrics, Washington D.C./
 
 ** 2015
 
-"High throughput density functional theory calculations for predicting new ferroelectrics"\\
+"High throughput density functional theory calculations for predicting new
+ferroelectrics"
+
 /Student Seminars in Physics and Astronomy, Rutgers University/
 * Schools/Workshops Attended
 ** 2019
-Workshop on Recent Developments in Electronic Structure\\
-University of Illinois at Urbana-Champaign\\
+Workshop on Recent Developments in Electronic Structure
+
+University of Illinois at Urbana-Champaign
+
 Poster: "Computing spontaneous polarization without sampling a switching path"
 ** 2018
-NSF EFRI-2DARE, DMRED-2D & MIP Grantees Meeting\\
+NSF EFRI-2DARE, DMRED-2D & MIP Grantees Meeting
+
 Pennsylvania State University Materials Research Institute
 
 ** 2017
-International School on Oxide Electronics\\
-Institut d'Études Scientifiques Cargèse, France\\
+International School on Oxide Electronics
+
+Institut d'Études Scientifiques Cargèse, France
+
 Poster: "Efficient computation of spontaneous polarization using Wannier center displacements"
 
-Workshop on Recent Developments in Electronic Structure\\
+Workshop on Recent Developments in Electronic Structure
+
 Princeton University
 ** 2015
-Machine Learning for Materials Science Workshop\\
+Machine Learning for Materials Science Workshop
+
 University of Maryland
 
 ** 2014
-Quantum Espresso Workshop\\
+Quantum Espresso Workshop
+
 Pennsylvania State University
 
 ** 2013
-NJSGC Annual Summer Research Conference\\
-Rutgers University\\
+NJSGC Annual Summer Research Conference
+
+Rutgers University
+
 Poster: "Engineering the interaction between cold dipolar molecules with external fields to produce novel quantum phases"
 
 ** 2012
-NJSGC Academic Year Fellowship Poster Session\\
-Rutgers University\\
+NJSGC Academic Year Fellowship Poster Session
+
+Rutgers University
+
 Poster: "Design of a system for Elastic, Electric, and Magnetic Properties of Multiferroic Devices "
 
-STEM Symposium\\
-Rowan University\\
+STEM Symposium
+
+Rowan University
+
 Poster: "Design of a system for Elastic, Electric, and Magnetic Properties of Multiferroic Devices "
 * Awards
 ** 2019
-*Best Oral Presentation by student or postdoc (3rd Place)*\\
+*Best Oral Presentation by student or postdoc (3rd Place)*
+
 Fundamental Physics of Ferroelectrics Workshop
 
 ** 2013
-*Excellence Fellowship*\\
+*Excellence Fellowship*
+
 Rutgers University
 
 
-*Medallion for Excellence in Physics*\\
+*Medallion for Excellence in Physics*
+
 Rowan University
 
 ** 2009 :noexport:
@@ -149,19 +193,30 @@ Council Meeting
  C
 
 * References
-*Karin Rabe*\\
-Board of Governors Professor\\
-Department of Physics and Astronomy, Rutgers University\\
+*Karin Rabe*
+
+Board of Governors Professor
+
+Department of Physics and Astronomy, Rutgers University
+
 kmrabe@physics.rutgers.edu
 
-*David Vanderbilt*\\
-Board of Governors Professor\\
-Department of Physics and Astronomy, Rutgers University\\
+*David Vanderbilt*
+
+Board of Governors Professor
+
+Department of Physics and Astronomy, Rutgers University
+
 dhv@physics.rutgers.edu
 
-*Cyrus Dryer*\\
-Assistant Professor\\
-Department of Physics and Astronomy, Stony Brook University\\
-Affiliate Associate Research Scientist\\
-Center for Computational Quantum Physics, Flatiron Institute\\
+*Cyrus Dryer*
+
+Assistant Professor
+
+Department of Physics and Astronomy, Stony Brook University
+
+Affiliate Associate Research Scientist
+
+Center for Computational Quantum Physics, Flatiron Institute
+
 cyrus.dreyer@stonybrook.edu
