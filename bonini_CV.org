@@ -29,7 +29,7 @@ Advisor: Karin Rabe
 Rowan University, Minor in Mathematics, Minor in Computer Science
 * Articles
 ** 2020
-*Controlling ferroelectric hysteresis offsets in PbTiO3based superlattices*
+*Controlling ferroelectric hysteresis offsets in PbTiO3 based superlattices*
 
 S. Divilov, H.C. Hsing, M.H. Yusuf /et al./
 
@@ -59,8 +59,7 @@ J. Bonini, J. W. Bennett, P. Chandra, and K. M. Rabe
 ** 2011
 *Enhanced resonant magnetoelectric coupling in frequency-tunable composite multiferroic bimorph structures*
 
-P. Finkel, J. Bonini, E. Garrity, K. Bussman, J. Gao, J. F. Li, S. E. Lofland,
-and D. Viehland
+P. Finkel, J. Bonini, E. Garrity /et al./
 
 /Appl. Phys. Lett. 98, 092905/
 * Talks
@@ -73,7 +72,7 @@ response in superlattices*
 ** 2019
 *Fantastic metastable states and where to find them: A computational search for superlattices with enhanced functional properties*
 
-/APS March Meeting, Boston, Massechusetts/
+/APS March Meeting, Boston, Massachusetts/
 
 *First principles dielectric slab model for dielectric and piezoelectric
 response in superlattices*
